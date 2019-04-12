@@ -1,15 +1,18 @@
 ﻿// Minesweeper.cpp : このファイルには 'main' 関数が含まれています。プログラム実行の開始と終了がそこで行われます。
 //
 
-/* Minesweeper(2019/04/06)
-  author    : saio4016
-  language  : c
-  IDE/Editor: Visual Studio 2017
-  time      : 3h */
-
-/* Guide
-  ・w = up, a = left, s = down, d = right
-  ・e = flag, f = enter */
+  /********************************************
+  Name      ：Minesweeper.cpp
+  Function  ：Minesweeper
+  Author    ：saio4016
+  Date      ：2019/04/06(last update:2019/04/12)
+  Language  ：C
+  IDE/Editor：Visual Studio 2017
+  Time      ：3h
+  Notices   ：Guide(↓)
+			  ・w = up, a = left, s = down, d = right
+			  ・e = flag, f = select 
+  ********************************************/
 
 #include "pch.h"
 #include <stdio.h>
